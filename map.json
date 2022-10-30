@@ -103,6 +103,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.gregandev.fr"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Pour visiter le site de Gregandev, appuis sur espace"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -141,6 +151,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/retroarch.gregandev.fr"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Pour ouvrir Retroarch, appuis sur espace"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -179,6 +199,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.gregandev.fr\/docs\/jeux\/EwannEtMilhauVS_web\/index.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Pour jouer, appuis sur espace"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -380,7 +410,7 @@
         }, 
         {
          "data":[403, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 479, 404,
-            477, 578, 2683, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 477,
+            477, 578, 2683, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 578, 2683, 578, 477,
             477, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 603, 477,
             477, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 477,
             477, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 477,
