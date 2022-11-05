@@ -311,7 +311,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/map.json"
+         "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/zelda.json"
         }, 
         {
          "name":"mapName",
