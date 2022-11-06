@@ -64,7 +64,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zelda.json"
+                 "value":"zelda.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -417,7 +417,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/assets\/music\/music.mp3"
+                 "value":"assets\/music\/music.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
