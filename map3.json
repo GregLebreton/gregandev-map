@@ -638,7 +638,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"GreganDev Home"
+         "value":"GreganDev Zelda"
         }, 
         {
          "name":"mapImage",
@@ -648,7 +648,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/map.json"
+         "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/map3.json"
         }, 
         {
          "name":"mapName",
