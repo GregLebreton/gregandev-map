@@ -349,7 +349,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"assets\/music\/zelda.mp3"
+                 "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/blob\/master\/assets\/music\/zelda.mp3?raw=true"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -648,12 +648,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/map3.json"
+         "value":"https:\/\/GregLebreton.github.io\/gregandev-map\/map3.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Just A Test"
+         "value":"Kakariko village"
         }, 
         {
          "name":"script",
@@ -667,7 +667,7 @@
         {
          "columns":75,
          "firstgid":1,
-         "image":"assets\/zelda-village-2.png",
+         "image":"..\/gregandev\/src\/assets\/zelda-village-2.png",
          "imageheight":3244,
          "imagewidth":2400,
          "margin":0,
@@ -68958,7 +68958,7 @@
         {
          "columns":6,
          "firstgid":7576,
-         "image":"assets\/WA_Special_Zones.png",
+         "image":"src\/assets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,

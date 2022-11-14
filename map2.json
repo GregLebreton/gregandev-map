@@ -992,7 +992,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"assets\/WA_Special_Zones.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -1015,7 +1015,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"assets\/WA_Decoration.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -1028,7 +1028,7 @@
         {
          "columns":10,
          "firstgid":109,
-         "image":"assets\/WA_Miscellaneous.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -1041,7 +1041,7 @@
         {
          "columns":12,
          "firstgid":219,
-         "image":"assets\/WA_Other_Furniture.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -1054,7 +1054,7 @@
         {
          "columns":25,
          "firstgid":375,
-         "image":"assets\/WA_Room_Builder.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -1067,7 +1067,7 @@
         {
          "columns":13,
          "firstgid":1375,
-         "image":"assets\/WA_Seats.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -1080,7 +1080,7 @@
         {
          "columns":10,
          "firstgid":1557,
-         "image":"assets\/WA_Tables.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -1093,7 +1093,7 @@
         {
          "columns":6,
          "firstgid":1827,
-         "image":"assets\/WA_Logo_Long.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Logo_Long.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -1106,7 +1106,7 @@
         {
          "columns":25,
          "firstgid":1833,
-         "image":"assets\/WA_Exterior.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -1119,7 +1119,7 @@
         {
          "columns":1,
          "firstgid":2683,
-         "image":"assets\/WA_GreganDevLogo2.png",
+         "image":"..\/gregandev\/src\/assets\/WA_GreganDevLogo2.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1132,7 +1132,7 @@
         {
          "columns":1,
          "firstgid":2684,
-         "image":"assets\/arcade.png",
+         "image":"..\/gregandev\/src\/assets\/arcade.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -1145,7 +1145,7 @@
         {
          "columns":32,
          "firstgid":2686,
-         "image":"assets\/WA_Nordic.png",
+         "image":"..\/gregandev\/src\/assets\/WA_Nordic.png",
          "imageheight":1184,
          "imagewidth":1024,
          "margin":0,
@@ -1158,7 +1158,7 @@
         {
          "columns":32,
          "firstgid":3870,
-         "image":"assets\/ZRPGBeach.png",
+         "image":"..\/gregandev\/src\/assets\/ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1171,7 +1171,7 @@
         {
          "columns":16,
          "firstgid":4894,
-         "image":"assets\/wood_tileset.png",
+         "image":"..\/gregandev\/src\/assets\/wood_tileset.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1184,7 +1184,7 @@
         {
          "columns":16,
          "firstgid":5150,
-         "image":"assets\/Castle2.png",
+         "image":"..\/gregandev\/src\/assets\/Castle2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1197,7 +1197,7 @@
         {
          "columns":16,
          "firstgid":5406,
-         "image":"assets\/mountain_landscape.png",
+         "image":"..\/gregandev\/src\/assets\/mountain_landscape.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1210,7 +1210,7 @@
         {
          "columns":30,
          "firstgid":5662,
-         "image":"assets\/hyptosis_tile-art-batch-1.png",
+         "image":"..\/gregandev\/src\/assets\/hyptosis_tile-art-batch-1.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
